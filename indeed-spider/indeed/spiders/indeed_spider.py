@@ -89,21 +89,24 @@ class IndeedSpider(CrawlSpider):
 
     target_ancestor = None
 
-    job_posting_min_length = 500
+    job_posting_min_length = 200
 
 
     # Find the best parent element that contains the entire job description without the extra html
     if target_element is not None:
-      for ancestor in target_element.iterancestors():
-        generation_count += 1
+      if target_element.text_content() > job_posting_min_length:
+        target_ancestor = target_element
+      else:
+        for ancestor in target_element.iterancestors():
+          generation_count += 1
 
-        ancestor_text = ancestor.text_content()
+          ancestor_text = ancestor.text_content()
 
-        target_ancestor = ancestor
+          target_ancestor = ancestor
 
-        # The loop will pre-maturely break once the ancestor elements has minimum threshold of characters
-        if len(ancestor_text) > job_posting_min_length:
-          break
+          # The loop will pre-maturely break once the ancestor elements has minimum threshold of characters
+          if len(ancestor_text) > job_posting_min_length:
+            break
 
 
     return target_ancestor.text_content()
@@ -124,7 +127,6 @@ class IndeedSpider(CrawlSpider):
 
 
 
-    pass
     return item
 
 
