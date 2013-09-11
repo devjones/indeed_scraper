@@ -9,18 +9,104 @@ from indeed.items import IndeedItem
 import lxml
 
 
+
+
 class IndeedSpider(CrawlSpider):
   name = "indeed"
   allowed_domains = ["indeed.com"]
-  start_urls = [
-      "http://www.indeed.com/jobs?q=linux&l=Chicago&sort=date?",
-      ]
-
+  pages = 4
+  url_template = "http://www.indeed.com/jobs?q=%s&l=Chicago&start=%s"
+  start_urls = []
 
   rules = (
-      Rule(SgmlLinkExtractor(allow=('/jobs.q=linux&l=Chicago&sort=date$','q=linux&l=Chicago&sort=date&start=[0-9]+$',),deny=('/my/mysearches', '/preferences', '/advanced_search','/my/myjobs')), callback='parse_item', follow=False),
+
+
+        Rule(SgmlLinkExtractor(restrict_xpaths=("//div[@class='row ' or @class='row lastRow']/h2/a/@href"))),
+      Rule(SgmlLinkExtractor(allow=('http://www.indeed.com/jobs',),deny=('/my/mysearches', '/preferences', '/advanced_search','/my/myjobs')), callback='parse_item', follow=False),
 
       )
+
+  #Initialize the start_urls
+  job_queries = []
+  with open('job_queries.cfg', 'r') as f:
+    for line in f:
+      job_queries.append(line.strip())
+
+
+  # Build out the start_urls to scrape
+  for job_query in job_queries:
+    for page in range(1,pages):
+      full_url = url_template % (job_query, str(page*10))
+      start_urls.append(full_url)
+
+
+  '''
+  def __init__(self, *args, **kwargs):
+    # Get the search queries for the jobs from the job_queries.cfg file
+    # Config file must have 1 query per line
+
+    super(IndeedSpider, self).__init__(*args, **kwargs)
+
+  '''
+
+  def get_job_description(self, html, summary_string):
+
+    root = lxml.html.document_fromstring(html)
+    target_element = None
+
+
+    # For some reason the summary will not match the lxml extracted text, figure out why
+    # This solution is hacky
+
+
+    # Get only the first sentence
+    # Indeed cobbles together multiple sentences from the job posting
+    summary_string = summary_string.split(".",1)[0]
+
+    summary_start_list = summary_string.split(" ")[:3]
+    summary_start = " ".join(summary_start_list)
+
+
+
+    counter  = 0
+    # Find the element that contains the initial words in the summary string
+    for element in root.iter():
+      counter += 1
+      if element.text:
+        if (summary_start in element.text):
+          target_element = element
+          print 'YES. element.txt'
+          break
+      elif element.tail:
+        if (summary_start in element.tail):
+          target_element = element
+          print 'YES element.tail'
+          break
+
+
+
+    generation_count = 0
+
+    target_ancestor = None
+
+    job_posting_min_length = 500
+
+
+    # Find the best parent element that contains the entire job description without the extra html
+    if target_element is not None:
+      for ancestor in target_element.iterancestors():
+        generation_count += 1
+
+        ancestor_text = ancestor.text_content()
+
+        target_ancestor = ancestor
+
+        # The loop will pre-maturely break once the ancestor elements has minimum threshold of characters
+        if len(ancestor_text) > job_posting_min_length:
+          break
+
+
+    return target_ancestor.text_content()
 
   def parse_next_site(self, response):
 
@@ -31,21 +117,12 @@ class IndeedSpider(CrawlSpider):
     item['crawl_timestamp'] =  time.strftime('%Y-%m-%d %H:%M:%S')
 
 
-    root = lxml.html.document_fromstring(response.body)
-    target_element = ''
 
-
-    # For some reason the summary will not match the lxml extracted text, figure out why
-    # This solution is hacky
     summary = item['summary'][0][1:-5]
+    job_description = self.get_job_description(response.body, summary)
+    item['full_description'] = job_description
 
-    for element in root.iter():
-      if element.text:
 
-
-        if summary in element.text:
-          target_element = element
-          break
 
     pass
     return item
@@ -65,7 +142,7 @@ class IndeedSpider(CrawlSpider):
     items = []
 
     #Skip top two sponsored ads
-    for site in sites[2:]:
+    for site in sites[:-2]:
       item = IndeedItem(company='none')
 
       item['job_title'] = site.select('h2/a/@title').extract()
@@ -85,14 +162,13 @@ class IndeedSpider(CrawlSpider):
       item['found_date'] =site.select("table/tr/td/span[@class='date']/text()").extract()
       #item['source_url'] = self.get_source(link_url)
 
+
       if len(item['link_url']):
         request = Request("http://www.indeed.com" + item['link_url'][0], callback=self.parse_next_site)
         request.meta['item'] = item
 
         yield request
 
-
-      items.append(item)
 
     return
 

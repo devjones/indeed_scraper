@@ -1,0 +1,294 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+
+<HTML><HEAD><TITLE>Jobs Senior Linux Administrator - Evanston IL - Network Engineer - Systems administrator - networking - systems administration - Unix</TITLE><!-- CHANGE THE NEXT THREE LINES -->
+
+<META content="Jobs, Senior Linux Administrator, Network Engineer, systems administrator, networking, systems administration, Unix" name=Description>
+
+<META content="Jobs,Senior Linux Administrator,Network Engineer,systems administrator,networking,systems administration,Unix" name=KeyWords><!-- CHANGE THE ABOVE THREE LINES -->
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+
+<META content="Copyright 2013 Next Step Systems http://nextstepsystems.com/" name=Copyright>
+
+<META content="Next step Systems http://nextstepsystems.com/" name=Publisher>
+
+<META http-equiv=Content-Language content=en>
+
+<META content="15 days" name=revisit-after>
+
+<META content="index, follow" name=robots>
+
+<META content=General name=Rating>
+
+<link rel="stylesheet" href="colortheme.css" type="text/css">
+
+<script language="JavaScript" type="text/javascript" src="javascripts.js"></script>
+<script language="JavaScript" type="text/javascript" src="pop-closeup.js"></script>
+
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+
+
+<!-- OUTER PAGE TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center" valign="top">
+
+
+<script language="JavaScript" type="text/javascript" src="header.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+
+<!-- PICTURE AND BAR TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td background="picts/testimonials.jpg" class="pictbackground">
+<img src="picts/testimonials.jpg" border="0" width="750" height="80" alt="Image"><br>
+</td></tr><tr class="printhide"><td class="pagebars">
+<img src="picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+<!-- END PICTURE TABLE -->
+
+
+<!-- SPLIT TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr>
+<td align="left" valign="top" class="sidebar-background">
+
+
+<!-- LEFT SIDEBAR AREA -->
+
+<iframe name="Sidebar" src="sidebar.htm" width="200" height="750" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" class="sidebar-frame" onload="this.style.visibility='visible';">
+</iframe>
+
+
+</td><td align="left" valign="top" width="30" class="page-height shadow-vert cornerwidth">
+
+<div id="corner-left">
+<img src="picts/spacer.gif" width="30" height="30" class="cornerwidth cornerheight" alt="image"><br>
+</div>
+
+<img src="picts/spacer.gif" height="200" width="10" border="0" alt="image"><br>
+
+</td><td align="center" valign="top" class="shadow-horizontal">
+
+
+<br><br>
+                        <!-- START CONTENT TABLE -->
+                        <table width="90%" border="0">
+                          <tr> 
+                            
+                <td><span class=subtitle><a href="http://www.nextstepsystems.com/jobseekers.htm#jobseekersform"><strong><font color="#FF0000"></font></strong></a>Senior 
+                  Linux Administrator / Network Engineer - Evanston, IL</span></td>
+                            <td><a href="javascript:history.back()">Back&gt;&gt;</a></td>
+                          </tr>
+                        </table> 
+                        <TABLE cellSpacing=0 cellPadding=0 width=900 border=0>
+
+<TBODY>
+
+<TR>
+
+                              <TD vAlign=top align=left> <P> 
+                      <!-- START PAGE TEXT -->
+                    </P>
+                                
+                    <p><a href="http://www.nextstepsystems.com/jobseekers.htm#jobseekersform"><strong><font color="#FF0000">Click 
+                      Here To Apply Now!</font></strong></a></p>
+                    <p>Senior Linux Administrator / Network Engineer</p>
+                    <p>$100-$120K plus bonus</p>
+                    <p>Seeking a Senior Linux Systems Administrator/Engineer with 
+                      Cisco networking experience to join the infrastructure team. 
+                      This position will provide 24x7 support to critical trading 
+                      and back office support servers supporting multiple trade 
+                      desks located in Chicago, New York, London and Beijing.</p>
+                    <p>Responsibilities:<br>
+                      -Maintain predominantly Ubuntu based server environment 
+                      with 150+ machines in support of trade desks.<br>
+                      -Support development, QA, and production environments.<br>
+                      -System and Application level monitoring (Nagios, Cacti, 
+                      etc.).<br>
+                      -Configuration management (Puppet).<br>
+                      -DR/multiple site deployment of physical hardware (HP servers).<br>
+                      -Documentation of procedures and system configuration.<br>
+                      -Participate in On-Call rotation or irregular work hours 
+                      as required.</p>
+                    <p>Qualifications:<br>
+                      -5+ years work as a UNIX/Linux systems administrator.<br>
+                      -Very strong Perl/Shell scripting skills.<br>
+                      -Ability to handle multiple issues of varying priority.<br>
+                      -Cisco networking administration.<br>
+                      -Experience with Citrix XenServer clusters or similar virtual 
+                      infrastructure platforms.</p>
+                    <p>Jobs, Senior Linux Administrator, Network Engineer, systems 
+                      administrator, networking, systems administration, Unix<br>
+                    </p>
+                    <p>&nbsp; </p>
+                    <p><br>
+                    </p>
+                    <p>&nbsp; </p>
+                    <p>&nbsp; </p>
+                    <P><br>
+                    </P>
+                                <p><a href="http://www.nextstepsystems.com" target="_blank">Recruiting 
+                                  services by Next Step Systems - www.nextstepsystems.com</a><br>
+                                </p>
+                                <P><br>
+                                  <br>
+                                  <style> .rsslinks \{} .rsslinks:hover \{}  .lh a \{} .lh a:hover \{} </style><table width=700><tr ><td width=700 style="font-family:Verdana, Arial, Sans-serif; font-size:08pt; background-color:; border:5px; border-style:Solid; border-color:; color:; padding:5px;"><script type="text/javascript" language=javascript>
+document.title=document.title+ " ";
+</script><a  class=rsslinks href='http://www.nextstepsystems.com/current_hot_jobs.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/current_hot_jobs.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f85a54' name='a_5230822f85a54' >*2013 HOT IT JOB LINKS - BY STATE - UPDATED DAILY* GET HIRED QUICKLY WITH OUR CLIENTS IN 2013! Powered by Next Step Systems - Information Technology Recruiters / IT Recruiting Services</a><script  type='text/javascript'>document.getElementById('a_5230822f85a54').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-consulting-engineer-cloud-computing-philadelphia-pa.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-consulting-engineer-cloud-computing-philadelphia-pa.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f8834f' name='a_5230822f8834f' >(WORK FROM ANY CITY IN THE U.S.) Consulting Engineer, Cloud Computing.</a><script  type='text/javascript'>document.getElementById('a_5230822f8834f').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-sr-manager-security-cissp-chicago-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-sr-manager-security-cissp-chicago-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f8ac66' name='a_5230822f8ac66' >(AZ, IL, NY) SR Manager of Security. Phoenix, Chicago and New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f8ac66').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-mis-administrator-torrance-ca.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-mis-administrator-torrance-ca.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f8d537' name='a_5230822f8d537' >(CA) MIS Administrator. Torrance Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f8d537').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/nw-trader-redwood-city-jobs-ca.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/nw-trader-redwood-city-jobs-ca.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f8fe2c' name='a_5230822f8fe2c' >(CA) Trader. Redwood City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f8fe2c').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/se-agile-test-engineer-tester-qa-quality-assurance-ft-lauderdale-fl-062613.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/se-agile-test-engineer-tester-qa-quality-assurance-ft-lauderdale-fl-062613.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f9271f' name='a_5230822f9271f' >(FL) Back Office Database Developer. Ft Lauderdale Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f9271f').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/se-technical-product-manager-agile-ft-lauderdale-fl-062513.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/se-technical-product-manager-agile-ft-lauderdale-fl-062513.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f95035' name='a_5230822f95035' >(FL) Technical Product Manager / Agile. Ft Lauderdale Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f95035').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-sr-consultant-information-security-cissp-chicago-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-sr-consultant-information-security-cissp-chicago-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f9790b' name='a_5230822f9790b' >(CA, IL, MO, NY, PA and TX) Sr Consultant - Security. Los Angeles, Chicago, St Louis, New York City, Philadelphia, Dallas and Houston Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f9790b').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-manager-security-cissp-chicago-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-manager-security-cissp-chicago-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f9a1fa' name='a_5230822f9a1fa' >(CA, IL, PA) Manager of Security. Los Angeles, Chicago and Philadelphia Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f9a1fa').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/se-field-service-tech-electrical-mechanical-savannah-ga.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/se-field-service-tech-electrical-mechanical-savannah-ga.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f9cac5' name='a_5230822f9cac5' >(GA) Field Service Technician / Electromechanical. Savannah / Augusta Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f9cac5').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-it-support-technician-trading-chicago-il-091013.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-it-support-technician-trading-chicago-il-091013.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822f9f3a3' name='a_5230822f9f3a3' >(IL) IT Support Technician / Trading. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822f9f3a3').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-java-software-engineer-chicago-il-orland-park.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-java-software-engineer-chicago-il-orland-park.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fa1cbc' name='a_5230822fa1cbc' >(IL) Java Software Engineer. Orland Park Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fa1cbc').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-security-analyst-chicago-il-pp.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-security-analyst-chicago-il-pp.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fa45ec' name='a_5230822fa45ec' >(IL) Security Analyst. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fa45ec').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-data-warehouse-applications-developer-oakbrook-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-data-warehouse-applications-developer-oakbrook-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fa6f11' name='a_5230822fa6f11' >(IL) Data Warehouse Applications Developer. OakBrook Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fa6f11').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-field-service-tech-electrical-mechanical-chicago-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-field-service-tech-electrical-mechanical-chicago-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fa984f' name='a_5230822fa984f' >(IL) Field Service Technician / Electromechanical. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fa984f').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-web-specialist-job-schaumburg-chicago.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-web-specialist-job-schaumburg-chicago.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fac177' name='a_5230822fac177' >(IL) Web Specialist. Schaumburg Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fac177').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-software-engineer-risk-pp-chicago-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-software-engineer-risk-pp-chicago-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822faeaa0' name='a_5230822faeaa0' >(IL) Software Engineer - Risk. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822faeaa0').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-c-plus-plus-sr-developer-pp-chicago-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-c-plus-plus-sr-developer-pp-chicago-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fb13d2' name='a_5230822fb13d2' >(IL) Sr C++ Software Developer. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fb13d2').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-technical-support-specialist-server-help-desk-technician-helpdesk-desktop-chicago-illinois.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-technical-support-specialist-server-help-desk-technician-helpdesk-desktop-chicago-illinois.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fb3cd1' name='a_5230822fb3cd1' >(IL) Technical Support Specialist. Server support. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fb3cd1').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-sr-linux-systems-administrator-network-engineer-pp-evanston.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-sr-linux-systems-administrator-network-engineer-pp-evanston.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fb660b' name='a_5230822fb660b' >(IL) Sr Linux Systems Administrator. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fb660b').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-erp-support-chicago-lake-forest-il.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-erp-support-chicago-lake-forest-il.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fb8f1c' name='a_5230822fb8f1c' >(IL) ERP Software Support. Lake Forest Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fb8f1c').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-software-developer-c-sharp-chicago-pp.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-software-developer-c-sharp-chicago-pp.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fbb842' name='a_5230822fbb842' >(IL) C# Software Developer. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fbb842').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-c-plus-plus-software-developer-chicago-pp-050213.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-c-plus-plus-software-developer-chicago-pp-050213.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fbe157' name='a_5230822fbe157' >(IL) C++ Software Developers. Chicago Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fbe157').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-edi-programmer-software-developer-chicago-050213.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-edi-programmer-software-developer-chicago-050213.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fc0aaa' name='a_5230822fc0aaa' >(IL) EDI Programmer Analyst. Chicago Jobs (near Midway).</a><script  type='text/javascript'>document.getElementById('a_5230822fc0aaa').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-jd-edwards-jde-programmer-software-developer-chicago-050213.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-jd-edwards-jde-programmer-software-developer-chicago-050213.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fc3395' name='a_5230822fc3395' >(IL) JD Edwards Software Developer. Chicago Jobs (near Midway).</a><script  type='text/javascript'>document.getElementById('a_5230822fc3395').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-mis-administrator-plymouth-mi.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-mis-administrator-plymouth-mi.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fc5c72' name='a_5230822fc5c72' >(MI) MIS Administrator. Plymouth Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fc5c72').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-erp-sales-executive-dover-new-hampshire.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-erp-sales-executive-dover-new-hampshire.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fc8560' name='a_5230822fc8560' >(NH) ERP Sales Executive. Dover Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fc8560').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-research-c-plus-plus-great-neck-new-york.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-research-c-plus-plus-great-neck-new-york.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fcae2d' name='a_5230822fcae2d' >(NY) Software Developer / Research, Support and Development Associate. Great Neck Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fcae2d').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-software-engineer-new-york-city-ny.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-software-engineer-new-york-city-ny.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fcd73a' name='a_5230822fcd73a' >(NY) Software Engineer. New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fcd73a').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-audio-visual-engineer-new-york-city-ny.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-audio-visual-engineer-new-york-city-ny.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fd0008' name='a_5230822fd0008' >(NY) Audio Visual Engineer. New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fd0008').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-windows-engineer-new-york-city-ny-080113.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-windows-engineer-new-york-city-ny-080113.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fd28d2' name='a_5230822fd28d2' >(NY) Windows Engineer. New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fd28d2').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-linux-systems-engineer-new-york-city-ny-052913.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-linux-systems-engineer-new-york-city-ny-052913.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fd51b2' name='a_5230822fd51b2' >(NY) Linux Systems Engineer. New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fd51b2').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-sybase-software-developer-new-york-ny.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-sybase-software-developer-new-york-ny.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fd7a87' name='a_5230822fd7a87' >(NY) Sybase Developer. Great Neck Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fd7a87').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-High-Frequency-Flow-Trading-Software-Developer--jobs--new-york-city-050113.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-High-Frequency-Flow-Trading-Software-Developer--jobs--new-york-city-050113.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fda38a' name='a_5230822fda38a' >(NY) C++ / Java Software Developers. New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fda38a').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-software-engineer-reliability-java-python-c-plus-plus-unix-linux-new-york-city-manhattan-050113.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-software-engineer-reliability-java-python-c-plus-plus-unix-linux-new-york-city-manhattan-050113.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fdcca4' name='a_5230822fdcca4' >(NY) Software Engineer Reliability. New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fdcca4').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-software-developer-c-plus-great-neck-ny-050113.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-software-developer-c-plus-great-neck-ny-050113.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fdf5d8' name='a_5230822fdf5d8' >(NY) C++ Software Developer Great Neck Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fdf5d8').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-junior-jr-cplusplus-software-developer-manhattan-new-york-city-ny.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-junior-jr-cplusplus-software-developer-manhattan-new-york-city-ny.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fe1ef0' name='a_5230822fe1ef0' >(NY) Jr C++ Software Developer. NYC Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fe1ef0').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-linux-systems-administrator-new-york-city-ny-050113.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-linux-systems-administrator-new-york-city-ny-050113.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fe480e' name='a_5230822fe480e' >(NY) Linux Systems Administrators. Need 4 to 5 people. New York City Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fe480e').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/mw-data-warehouse-applications-developer-akron-ohio.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/mw-data-warehouse-applications-developer-akron-ohio.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fe7126' name='a_5230822fe7126' >(OH) Data Warehouse Applications Developer. Akron Jobs.</a><script  type='text/javascript'>document.getElementById('a_5230822fe7126').href='#';</script><br><br clear=all><a  class=rsslinks href='http://www.nextstepsystems.com/jobs/ne-product-manager-life-sciences-ecm-eccm-philadelphia-pa.htm' onclick="javascript:window.open('http://www.nextstepsystems.com/jobs/ne-product-manager-life-sciences-ecm-eccm-philadelphia-pa.htm',null,',menubar=0,toolbar=0,location=0,scrollbars=1,resizable=1,status=0');return false;"   id='a_5230822fe9a55' name='a_5230822fe9a55' >(PA) Product Manager / Business Analyst / Life Sciences / ECM / ECCM. Wayne</a><script  type='text/javascript'>document.getElementById('a_5230822fe9a55').href='#';</script><br><br clear=all><center><span style="font-size:9pt;font-family:tahoma;display:inline;"><b></b></span></center></td></tr></table>                                  <br>
+                                </P>
+                                <table width="80%" BORDER=0 align="center" cellpadding=0 cellspacing=0>
+                                  <tr> 
+                                    <td> <p></p>
+                                      <hr> 
+                                      <p>&nbsp;</p>
+                                      <p>For more information about this opportunity 
+                                        contact:</p>
+                                      <br> <script language="JavaScript" src="phone.js"></script> 
+                                    </td>
+                                  </tr>
+                                </table>
+                                <P><BR>
+                                  <!-- COPY AND PASTE CODE ABOVE HERE TO MAKE A NEW PARAGRAPH -->
+                                </P>
+                                <P><a href="../news.htm">Current Job News</a></P>
+                                <P><a href="../current_hot_jobs.htm">Current Hot 
+                                  IT Jobs</a></P>
+                                <P><a href="../current_trading_jobs.htm">Current 
+                                  Hot IT Trading / Financial Services Jobs</a></P>
+                                <P>Connect with us: </P>
+                                <P><a href="http://feeds.feedburner.com/nextstepsystems/khvk" target="_blank"> 
+                                  <img src="picts/rss.png" width="55.8" height="70.2" border="0"></a><a href="http://twitter.com/nextstepsystems" target="_blank"><img src="picts/twitter.png" width="55.8" height="70.2" border="0"></a><a href="http://www.facebook.com/nextstepsystems" target="_blank"><img src="picts/facebook.png" width="55.8" height="70.2" border="0"></a><a href="http://www.linkedin.com/in/MikeStapinski" target="_blank"><img src="picts/linkedin.png" width="55.8" height="70.2" border="0"></a></P>
+                                <P>&nbsp; 
+                                <div id="fb-root"></div>
+                                <fb:like href="" send="true" width="450" show_faces="false" colorscheme="dark" font=""></fb:like> 
+                                <p>We are working on tech jobs in IL (Chicago 
+                      area Computer Jobs), PA, NY, NJ, CT, MA, VA, GA, NC, TN, CA, 
+                      TX, AZ, OH, MI, IN, MO, CO, FL, WA, MN and CN. We are specialists 
+                      in technology career employment.</p>
+                    <p>&nbsp;<p><div class="page-splits"></div></p></p>
+                                
+                    <BR>
+                                  We are an equal opportunity Technology Employment 
+                                  Service </p>
+                                <P>This website is maintained by <a href="http://www.nextstepsystems.com">Next 
+                                  Step Systems</a></P>
+                                
+                    <p>Jobs in Chicago - Jobs in New York - Jobs in New Jersey 
+                      - Jobs in Philadelphia - Jobs in Connecticut - Jobs in Denver 
+                      - Jobs in Dallas - Jobs in Houston - Jobs in Phoenix - Jobs 
+                      in Silicon Valley - Plus Many More Areas</p>
+                    <P>C++ - C# - .net - Java - Oracle - SQL Server - Unix - Linux 
+                      - Networking - Storage - Systems - Support - Sales - Plus 
+                      More</P>
+                                
+                    <P> Programmer - Software - Developer - Network Engineer - 
+                      Database Analyst - Systems Administrator - Systems Engineer 
+                      - Managed Hosting - Manager - Director - VP - CIO - CTO 
+                      - Plus More</P>
+                                <P>Executive Search Firm with Specialized Technical 
+                                  Recruiters or IT Recruiters servicing clients 
+                                  of all sizes nationally since 1995. IT Recruitment 
+                                  Firms, IT Recruitment Agencies, Headhunters 
+                                  and Executive Recruiting Firms. Experience with 
+                                  Computer Jobs | Information Technology Jobs 
+                                  or IT Jobs | Tech Jobs | Systems | Programming. 
+                                  IT Jobs in Chicago | Philadelphia | New York 
+                                  City - Manhattan | Denver | Dallas | Houston 
+                                  | Phoenix | Silicon Valley | Plus Many More 
+                                  Areas</P>
+                                <P><a href="../index.html">Index</a> | <a href="../sitemap.htm">Site 
+                                  Map</a> | <a href="../home.htm">Home Page </a> 
+                                  | <a href="../aboutus.htm">About Us</a> |<a href="../about_pres.htm"> 
+                                  President</a> | <a href="../about_vp.htm">VP</a> 
+                                  | <a href="../jobs.htm">IT Jobs By Region</a> 
+                                  | <a href="/links.htm"> </a><a href="../trading_jobs.htm">IT 
+                                  Jobs in Trading </a> | <a href="../jobseekers.htm">Job 
+                                  Seekers</a> | <a href="../employers.htm">Employers</a> 
+                                  | <a href="../links.htm">Links Page</a></P>
+                                <P><a href="../j_midwest.htm">Midwest Jobs</a> 
+                                  | <a href="../j_northeast.htm"> Northeast Jobs</a> 
+                                  | <a href="../j_southeast.htm">Southeast Jobs 
+                                  </a> | <a href="../j_northwest.htm">Northwest 
+                                  Jobs</a> | <a href="../j_southwest.htm">Southwest 
+                                  Jobs </a>| <a href="../j_canada.htm">Canada 
+                                  Jobs</a></P>
+                                <P><a href="../chicago_trading_jobs.htm">Chicago 
+                                  Area Trading Jobs in IT</a> | <a href="../newyork_trading_jobs.htm">New 
+                                  York Area Trading Jobs in IT</a> | <a href="../philadelphia_trading_jobs.htm">Philadelphia 
+                                  Area Trading Jobs in IT</a> | <a href="../siliconvalley_trading_jobs.htm">Silicon 
+                                  Valley Area Trading Jobs in IT</a></P>
+                                <img src="picts/spacer.gif" width="310" height="10" class="content-min-width" alt="image"><br>
+                    <br>
+                    <br>
+                  </P>
+                  </td><td align="center" valign="top" width="5" class="right-space">
+
+<img src="picts/spacer.gif" width="5" height="5" alt="image" class="right-space"><br>
+
+</td><td align="center" valign="top" class="sidebarright-width">
+
+<!-- RIGHT SIDEBAR AREA -->
+
+<script language="JavaScript" type="text/javascript" src="sidebar-right.js"></script>
+
+</td></tr></table>
+<!-- CONTENT TABLE -->
+
+
+
+
+</td><td align="left" valign="top" width="30" class="cornerwidth">
+
+<div id="corner-right">
+<img src="picts/spacer.gif" width="30" height="30" class="cornerwidth cornerheight" alt="image"><br>
+</div>
+</td><td class="sidebar-right sidebar-right-width">
+<img src="picts/spacer.gif" width="15" height="15" alt="image" class="sidebar-right-width"><br>
+</td></tr></table>
+<!-- SPLIT TABLE -->
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td>
+
+
+
+
+<!-- BOTTOM PAGEBAR -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tr class="printhide"><td class="pagebar-bottom">
+<img src="picts/spacer.gif" width="10" height="1" alt="image"><br>
+</td></tr></table>
+
+
+
+
+<!-- PAGE TABLE -->
+</td></tr><tr><td class="shadow-horizontal">
+
+
+
+
+<!-- COPYRIGHT -->
+<table cellpadding="6" cellspacing="0" border="0" width="100%"><tr><td align="left" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="copyright.js"></script>
+
+</td><td align="right" valign="top">
+
+<script language="JavaScript" type="text/javascript" src="copyright-allwebco.js"></script>
+
+</td></tr></table>
+<!-- COPYRIGHT -->
+
+
+
+
+</td></tr></table>
+<!-- END OUTER PAGE TABLE -->
+
+
+
+
+</body>
+</html>

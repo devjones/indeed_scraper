@@ -12,7 +12,7 @@ SPIDER_MODULES = ['indeed.spiders']
 NEWSPIDER_MODULE = 'indeed.spiders'
 DEFAULT_ITEM_CLASS = 'indeed.items.IndeedItem'
 USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
-DOWNLOAD_DELAY = 2.0
+DOWNLOAD_DELAY = 1.0
 '''
 ITEM_PIPELINES = [
 	'indeed.pipelines.IndeedPipeline',

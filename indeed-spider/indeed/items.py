@@ -20,4 +20,3 @@ class IndeedItem(Item):
     crawl_url = Field()
     crawl_timestamp = Field()
     full_description = Field()
-    pass
