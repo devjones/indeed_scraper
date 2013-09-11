@@ -90,7 +90,8 @@ class IndeedSpider(CrawlSpider):
 
     target_ancestor = None
 
-    job_posting_min_length = 200
+    job_posting_min_length = 400
+    job_posting_max_length = 10000
 
 
     # Find the best parent element that contains the entire job description without the extra html
