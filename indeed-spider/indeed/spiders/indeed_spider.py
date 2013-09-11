@@ -49,8 +49,9 @@ class IndeedSpider(CrawlSpider):
 
   '''
 
-  def get_job_description(self, html, summary_string):
+  def get_job_description(self, html, item):
 
+    summary_string = item['summary'][0][1:-5]
     root = lxml.html.document_fromstring(html)
     target_element = None
 
@@ -96,6 +97,8 @@ class IndeedSpider(CrawlSpider):
     if target_element is not None:
       if target_element.text_content() > job_posting_min_length:
         target_ancestor = target_element
+      elif 'shiftgig' in item['source_url']:
+        target_ancestor = target_element
       else:
         for ancestor in target_element.iterancestors():
           generation_count += 1
@@ -121,8 +124,7 @@ class IndeedSpider(CrawlSpider):
 
 
 
-    summary = item['summary'][0][1:-5]
-    job_description = self.get_job_description(response.body, summary)
+    job_description = self.get_job_description(response.body, item)
     item['full_description'] = job_description
 
 
